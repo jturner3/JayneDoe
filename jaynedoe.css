@@ -25,3 +25,29 @@ p,a {
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+h3,h4 {
+    padding: 9px 0px 9px 0px;
+    background: linear(#b4b4b7,#8b8a95,#b4b4b7);
+	font-family: arial;
+	font-weight: normal;
+	color: white;
+
+}
+
+#main_content {
+	box-sizing: border-box;
+	width: 970px;
+	padding: 15px 12px 15px 20px;
+	background: radial-gradient(#83727b,#5a4850);
+	/* background: radial-gradient (red gray yellow); */
+
+}
+
+#profile_photo {
+	max-width: 405px;
+	display: inline-block;
+	vertical-align: top;
+	border: 5px solid #bebdbd
+;
+}
