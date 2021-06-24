@@ -48,6 +48,39 @@ h3,h4 {
 	max-width: 405px;
 	display: inline-block;
 	vertical-align: top;
-	border: 5px solid #bebdbd
-;
+	border: 5px solid #bebdbd;
 }
+#bio{
+    max-width: 480px;
+    height: 276px;
+    margin-left 20px;
+    display: inline-block;
+    vertical-align: top;
+    background:linear-gradient(to right, #ffffff, #dacbd8);
+}
+
+.subcontents {
+    width: 290px;
+    margin: 20px 20px 20px 0px;
+    background:linear-gradient(to right, #ffffff, #dacbd8);
+    display: inline-block;
+}
+
+.sub_img {
+    max-width: 100%;
+}
+
+.sub_text {
+    font-size: 14px;
+    height: 140px;
+    text-align: justify;
+}
+.tech_img_block {
+    padding: 5px 0px 5px 10px;
+    box-sizing: border-box;
+}
+.tech_img {
+    max-width: 40px;
+    margin: 5px;
+}
+
